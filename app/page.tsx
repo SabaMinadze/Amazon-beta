@@ -46,7 +46,7 @@ export default function Home() {
      image1={<Image src="/tops.jpg" height={140} width={140} alt="eror"/>}
      image2={<Image src="/dress.jpg" height={140} width={140} alt="eror"/>}
      image3={<Image src="/shoes.jpg" height={140} width={140} alt="eror"/>} />
-    <Cards text="Home décor under $50"
+    <Cards text="Home decor under $50"
      image={<Image src="/box.jpg" height={310} width={300} alt="eror"/>}
     />
     <Cards text="Toys under $25"
@@ -57,8 +57,6 @@ export default function Home() {
      />
     </div>
 
-
-  
 
     
     </>
