@@ -1,10 +1,10 @@
 .box{
     height: 80px;
     width: 100%;
-    background-color: rgb(52, 48, 48);
-    border-radius: 5px;
+    background-color: #131921;
     color: aliceblue;
     margin-left: 4px;
+    transform: translateX(-4px);
 }
 
 

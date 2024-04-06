@@ -1,0 +1,24 @@
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: #304a69;
+    cursor: pointer;
+}
+
+.footer:hover{
+    background-color:#446791;
+    cursor: pointer;
+}
+
+.text{
+    color: rgb(229, 235, 240);
+    transform: translateY(14px);
+    
+}
+
+
+
+
+
+
+
