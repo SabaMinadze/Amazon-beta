@@ -8,7 +8,7 @@ function Nav() {
       <div className={styles.card}>
         <ul className={styles.ul}>
           <li className={styles.li}>
-            <Link href="/">Today&apos;s Deals</Link>
+            <Link href="/forms">Today&apos;s Deals</Link>
           </li>
           <li className={styles.li}>  
             <Link href="/">Custom services</Link>

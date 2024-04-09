@@ -1,0 +1,41 @@
+.form{
+    height: 470px;
+    width: 100%;
+    background-color: rgb(91, 89, 91);
+    color: aliceblue;
+    font-size: 25px;
+    
+  
+}
+
+
+.box{
+    margin-left: 1130px;
+    height: 300px;
+    
+}
+.t{
+    height: 40px;
+    width: 260px;
+    border-radius: 5px;
+    background-color: rgb(6, 5, 5);
+    color: azure;
+    font-size: 20px;
+}
+
+.t1{
+    width: 320px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: rgb(6, 5, 5);
+    color: azure;
+    font-size: 30px;
+}
+
+.sub{
+    height: 55px;
+    width: 100px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 25px;
+}
